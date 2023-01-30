@@ -1,0 +1,12 @@
+20230120	10:51:08	23a2e43d-8245-42fa-8ddb-78754f4b90a3	Error: Not allowed by CORS
+20230125	12:47:11	d16c9487-8cba-45c2-bf5a-ac6a08cabf53	TypeError: data.filteredArray is not iterable
+20230125	15:35:21	c614352e-59db-4eb2-b9b1-ab8844e55bd5	TypeError: Cannot read properties of undefined (reading 'split')
+20230125	21:33:09	2dcce336-cf2a-43f0-a0c4-677d561fd25b	TypeError: Cannot read properties of undefined (reading 'username')
+20230125	21:33:18	139073e3-278e-4f34-808d-da2fa1530a74	TypeError: Cannot read properties of undefined (reading 'username')
+20230126	22:05:54	d9affbf3-b610-42cd-b7a8-762effe794fd	Error: Cannot set headers after they are sent to the client
+20230127	16:46:20	1841ab99-654b-40b6-993a-c6594b0bd3c1	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+20230127	16:52:14	e4c6788e-c77a-4ecd-825d-af3ee9e2d447	ReferenceError: newEmployee is not defined
